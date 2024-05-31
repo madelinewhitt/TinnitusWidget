@@ -1,3 +1,6 @@
 [submodule "local_modules/expo-white-noise-synth"]
 	path = local_modules/expo-white-noise-synth
 	url = https://github.com/madelinewhitt/expo-white-noise-synth.git
+[submodule "local_modules/expo-tone-synth"]
+	path = local_modules/expo-tone-synth
+	url = https://github.com/tmountain/expo-tone-synth.git
